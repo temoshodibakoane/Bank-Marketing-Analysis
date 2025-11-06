@@ -32,8 +32,7 @@ The Power BI dashboard includes:
 - `SQL_Queries.sql` – Data cleaning and analytical queries  
 - `PowerBI_Dashboard.pbix` – Interactive Power BI dashboard  
 
-Links
-- Power BI Dashboard: [Insert Power BI link here]  
+Links 
 - Portfolio: [https://datascienceportfol.io/temoshodibakoane0909](https://datascienceportfol.io/temoshodibakoane0909)
 
  Preview
